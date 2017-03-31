@@ -1,0 +1,1 @@
+spring-boot + kafka . At-most-once, At-least-once, Exactly-once
